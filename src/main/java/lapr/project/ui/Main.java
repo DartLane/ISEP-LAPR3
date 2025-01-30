@@ -13,7 +13,7 @@ import java.util.logging.Logger;
 import lapr.project.utils.PathAlgorithms;
 import lapr.project.utils.Utils;
 
-class Main {
+public class Main {
 
     private Main() {
 
@@ -26,7 +26,7 @@ class Main {
      */
     public static void main(String[] args) {
         //load database properties
-
+        System.out.println("Loading database properties");
         SettingsHandler sH = new SettingsHandler();
         sH.loadSettings(SettingsHandler.SETTINGS_FILE);
 
