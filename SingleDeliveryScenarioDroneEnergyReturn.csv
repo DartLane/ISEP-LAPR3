@@ -1,0 +1,50 @@
+Vehicle Type -> Drone
+Vehicle Specifications :
+Drone Horizontal Speed = 22.90m/s.
+Drone Vertical Speed = 9.00m/s.
+Drone Weight (excluding load) = 4.00kg.
+Load Weight = 1.00kg.
+Drone Aerodynamic Coefficient = 0.60 (unitless).
+Drone Frontal Area = 0.40m2.
+Drone Width = 0.50m.
+
+Projected Path :
+Total Distance = 10.12km.
+Total Energy Consumption = 439.09W.h.
+Time of Traversal = 442s.
+
+Path Structure :
+
+se do porto -> el corte ingles
+Path Kinetic Coefficient = 0.010 (unitless).
+Path Wind Angle = 110.00 Degrees.
+Path Wind Speed = 8.00m/s.
+Road Slope Angle = 0.77 Degrees.
+Distance = 2.01km.
+Energy = 56.54W.h.
+
+el corte ingles -> gaia shopping
+Path Kinetic Coefficient = 0.020 (unitless).
+Path Wind Angle = 210.00 Degrees.
+Path Wind Speed = 6.00m/s.
+Road Slope Angle = -0.25 Degrees.
+Distance = 2.31km.
+Energy = 86.59W.h.
+
+gaia shopping -> ponte da arrabida
+Path Kinetic Coefficient = 0.020 (unitless).
+Path Wind Angle = 190.00 Degrees.
+Path Wind Speed = 10.00m/s.
+Road Slope Angle = -0.30 Degrees.
+Distance = 4.36km.
+Energy = 261.64W.h.
+
+ponte da arrabida -> casa da musica
+Path Kinetic Coefficient = 0.020 (unitless).
+Path Wind Angle = 260.00 Degrees.
+Path Wind Speed = 7.00m/s.
+Road Slope Angle = 0.68 Degrees.
+Distance = 1.44km.
+Energy = 33.72W.h.
+
+Vertical Energy Consumption = 0.59W.h.

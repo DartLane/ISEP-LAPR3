@@ -1,0 +1,31 @@
+Vehicle Type -> Scooter
+Vehicle Specifications :
+Scooter Speed = 8.70m/s.
+Scooter Weight (excluding load) = 13.00kg.
+Courier Weight = 84.30kg.
+Load Weight = 1.00kg.
+Scooter Aerodynamic Coefficient = 1.11 (unitless).
+Scooter Frontal Area (considering upright human) = 1.50m2.
+
+Projected Path :
+Total Distance = 5.80km.
+Total Energy Consumption = 486.23W.h.
+Time of Traversal = 667s.
+
+Path Structure :
+
+gaia shopping -> ponte da arrabida
+Path Kinetic Coefficient = 0.020 (unitless).
+Path Wind Angle = 190.00 Degrees.
+Path Wind Speed = 10.00m/s.
+Road Slope Angle = -0.30 Degrees.
+Distance = 4.36km.
+Energy = 434.72W.h.
+
+ponte da arrabida -> casa da musica
+Path Kinetic Coefficient = 0.020 (unitless).
+Path Wind Angle = 260.00 Degrees.
+Path Wind Speed = 7.00m/s.
+Road Slope Angle = 0.68 Degrees.
+Distance = 1.44km.
+Energy = 51.51W.h.

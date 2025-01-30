@@ -1,0 +1,31 @@
+Vehicle Type -> Scooter
+Vehicle Specifications :
+Scooter Speed = 8.70m/s.
+Scooter Weight (excluding load) = 13.00kg.
+Courier Weight = 84.30kg.
+Load Weight = 1.00kg.
+Scooter Aerodynamic Coefficient = 1.11 (unitless).
+Scooter Frontal Area (considering upright human) = 1.50m2.
+
+Projected Path :
+Total Distance = 4.32km.
+Total Energy Consumption = 219.07W.h.
+Time of Traversal = 497s.
+
+Path Structure :
+
+se do porto -> el corte ingles
+Path Kinetic Coefficient = 0.010 (unitless).
+Path Wind Angle = 110.00 Degrees.
+Path Wind Speed = 8.00m/s.
+Road Slope Angle = 0.77 Degrees.
+Distance = 2.01km.
+Energy = 85.43W.h.
+
+el corte ingles -> gaia shopping
+Path Kinetic Coefficient = 0.020 (unitless).
+Path Wind Angle = 210.00 Degrees.
+Path Wind Speed = 6.00m/s.
+Road Slope Angle = -0.25 Degrees.
+Distance = 2.31km.
+Energy = 133.64W.h.

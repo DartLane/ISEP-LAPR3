@@ -1,0 +1,98 @@
+Vehicle Type -> Drone
+Vehicle Specifications :
+Drone Horizontal Speed = 22.90m/s.
+Drone Vertical Speed = 9.00m/s.
+Drone Weight (excluding load) = 4.00kg.
+Load Weight = 1.00kg.
+Drone Aerodynamic Coefficient = 0.60 (unitless).
+Drone Frontal Area = 0.40m2.
+Drone Width = 0.50m.
+
+Projected Path :
+Total Distance = 15.53km.
+Total Energy Consumption = 358.94W.h.
+Time of Traversal = 678s.
+
+Path Structure :
+
+casa da musica -> conservatorio
+Path Kinetic Coefficient = 0.010 (unitless).
+Path Wind Angle = 48.00 Degrees.
+Path Wind Speed = 5.00m/s.
+Road Slope Angle = -0.33 Degrees.
+Distance = 0.69km.
+Energy = 8.31W.h.
+
+conservatorio -> trindade
+Path Kinetic Coefficient = 0.010 (unitless).
+Path Wind Angle = 140.00 Degrees.
+Path Wind Speed = 6.00m/s.
+Road Slope Angle = 0.33 Degrees.
+Distance = 1.22km.
+Energy = 42.50W.h.
+
+trindade -> isep
+Path Kinetic Coefficient = 0.020 (unitless).
+Path Wind Angle = 190.00 Degrees.
+Path Wind Speed = 6.00m/s.
+Road Slope Angle = 0.33 Degrees.
+Distance = 2.98km.
+Energy = 120.70W.h.
+
+isep -> feup
+Path Kinetic Coefficient = 0.020 (unitless).
+Path Wind Angle = 180.00 Degrees.
+Path Wind Speed = 7.00m/s.
+Road Slope Angle = 0.65 Degrees.
+Distance = 0.70km.
+Energy = 31.51W.h.
+
+feup -> trindade
+Path Kinetic Coefficient = 0.010 (unitless).
+Path Wind Angle = 290.00 Degrees.
+Path Wind Speed = 8.00m/s.
+Road Slope Angle = -0.47 Degrees.
+Distance = 3.03km.
+Energy = 41.11W.h.
+
+trindade -> conservatorio
+Path Kinetic Coefficient = 0.010 (unitless).
+Path Wind Angle = 320.00 Degrees.
+Path Wind Speed = 6.00m/s.
+Road Slope Angle = -0.33 Degrees.
+Distance = 1.22km.
+Energy = 12.22W.h.
+
+conservatorio -> casa da musica
+Path Kinetic Coefficient = 0.010 (unitless).
+Path Wind Angle = 228.00 Degrees.
+Path Wind Speed = 5.00m/s.
+Road Slope Angle = 0.33 Degrees.
+Distance = 0.69km.
+Energy = 20.48W.h.
+
+casa da musica -> estadio do bessa
+Path Kinetic Coefficient = 0.010 (unitless).
+Path Wind Angle = 80.00 Degrees.
+Path Wind Speed = 2.00m/s.
+Road Slope Angle = -0.84 Degrees.
+Distance = 1.17km.
+Energy = 22.32W.h.
+
+estadio do bessa -> parque de serralves
+Path Kinetic Coefficient = 0.010 (unitless).
+Path Wind Angle = 97.00 Degrees.
+Path Wind Speed = 7.00m/s.
+Road Slope Angle = -0.25 Degrees.
+Distance = 1.40km.
+Energy = 31.19W.h.
+
+parque de serralves -> casa da musica
+Path Kinetic Coefficient = 0.010 (unitless).
+Path Wind Angle = 50.00 Degrees.
+Path Wind Speed = 6.00m/s.
+Road Slope Angle = 0.54 Degrees.
+Distance = 2.45km.
+Energy = 27.85W.h.
+
+Vertical Energy Consumption = 0.75W.h.

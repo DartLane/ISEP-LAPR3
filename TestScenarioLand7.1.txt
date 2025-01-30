@@ -1,0 +1,15 @@
+Test Scenario Land 7.1.
+Scooter Weight = 50kg.
+Courier Weight = 80kg.
+Scooter Average Speed = 30km/h.
+Scooter Frontal Area = 0.3m2.
+Aerodynamic Coefficient = 1.1 (unitless).
+
+Address{description=Aqui, latitude=12.0, longitude=12.0, altitude=100.0} -> Address{description=Ali, latitude=12.0, longitude=12.0919, altitude=103.0} -> Address{description=Além, latitude=12.0, longitude=12.0459, altitude=103.0}
+As this is an encapsulated test scenario, the following values remain true for the entirety of the course.
+Road Rolling Resistance Coefficient = 0.5 (unitless).
+Wind Angle = 20 Degrees.
+Wind Speed = 11km/h.
+The Scooter can perform the traversal needed.
+Energy Required = 2677,30Wh.
+Available Energy = 3000,00Wh.

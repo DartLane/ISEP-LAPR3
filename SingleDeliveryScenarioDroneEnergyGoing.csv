@@ -1,0 +1,42 @@
+Vehicle Type -> Drone
+Vehicle Specifications :
+Drone Horizontal Speed = 22.90m/s.
+Drone Vertical Speed = 9.00m/s.
+Drone Weight (excluding load) = 4.00kg.
+Load Weight = 1.00kg.
+Drone Aerodynamic Coefficient = 0.60 (unitless).
+Drone Frontal Area = 0.40m2.
+Drone Width = 0.50m.
+
+Projected Path :
+Total Distance = 2.55km.
+Total Energy Consumption = 38.93W.h.
+Time of Traversal = 111s.
+
+Path Structure :
+
+casa da musica -> pavilhao rosa mota
+Path Kinetic Coefficient = 0.990 (unitless).
+Path Wind Angle = 30.00 Degrees.
+Path Wind Speed = 5.00m/s.
+Road Slope Angle = -0.54 Degrees.
+Distance = 1.17km.
+Energy = 12.30W.h.
+
+pavilhao rosa mota -> torre dos clerigos
+Path Kinetic Coefficient = 0.020 (unitless).
+Path Wind Angle = 90.00 Degrees.
+Path Wind Speed = 7.00m/s.
+Road Slope Angle = 0.12 Degrees.
+Distance = 0.99km.
+Energy = 19.79W.h.
+
+torre dos clerigos -> se do porto
+Path Kinetic Coefficient = 0.010 (unitless).
+Path Wind Angle = 79.00 Degrees.
+Path Wind Speed = 7.00m/s.
+Road Slope Angle = -0.30 Degrees.
+Distance = 0.39km.
+Energy = 6.36W.h.
+
+Vertical Energy Consumption = 0.49W.h.

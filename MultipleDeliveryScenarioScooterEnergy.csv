@@ -1,0 +1,95 @@
+Vehicle Type -> Scooter
+Vehicle Specifications :
+Scooter Speed = 8.90m/s.
+Scooter Weight (excluding load) = 16.00kg.
+Courier Weight = 73.20kg.
+Load Weight = 1.00kg.
+Scooter Aerodynamic Coefficient = 1.10 (unitless).
+Scooter Frontal Area (considering upright human) = 1.50m2.
+
+Projected Path :
+Total Distance = 15.53km.
+Total Energy Consumption = 486.18W.h.
+Time of Traversal = 1745s.
+
+Path Structure :
+
+casa da musica -> estadio do bessa
+Path Kinetic Coefficient = 0.010 (unitless).
+Path Wind Angle = 80.00 Degrees.
+Path Wind Speed = 2.00m/s.
+Road Slope Angle = -0.84 Degrees.
+Distance = 1.17km.
+Energy = 22.05W.h.
+
+estadio do bessa -> parque de serralves
+Path Kinetic Coefficient = 0.010 (unitless).
+Path Wind Angle = 97.00 Degrees.
+Path Wind Speed = 7.00m/s.
+Road Slope Angle = -0.25 Degrees.
+Distance = 1.40km.
+Energy = 38.64W.h.
+
+parque de serralves -> casa da musica
+Path Kinetic Coefficient = 0.010 (unitless).
+Path Wind Angle = 50.00 Degrees.
+Path Wind Speed = 6.00m/s.
+Road Slope Angle = 0.54 Degrees.
+Distance = 2.45km.
+Energy = 28.83W.h.
+
+casa da musica -> conservatorio
+Path Kinetic Coefficient = 0.010 (unitless).
+Path Wind Angle = 48.00 Degrees.
+Path Wind Speed = 5.00m/s.
+Road Slope Angle = -0.33 Degrees.
+Distance = 0.69km.
+Energy = 6.54W.h.
+
+conservatorio -> trindade
+Path Kinetic Coefficient = 0.010 (unitless).
+Path Wind Angle = 140.00 Degrees.
+Path Wind Speed = 6.00m/s.
+Road Slope Angle = 0.33 Degrees.
+Distance = 1.22km.
+Energy = 65.52W.h.
+
+trindade -> isep
+Path Kinetic Coefficient = 0.020 (unitless).
+Path Wind Angle = 190.00 Degrees.
+Path Wind Speed = 6.00m/s.
+Road Slope Angle = 0.33 Degrees.
+Distance = 2.98km.
+Energy = 198.65W.h.
+
+isep -> feup
+Path Kinetic Coefficient = 0.020 (unitless).
+Path Wind Angle = 180.00 Degrees.
+Path Wind Speed = 7.00m/s.
+Road Slope Angle = 0.65 Degrees.
+Distance = 0.70km.
+Energy = 54.46W.h.
+
+feup -> trindade
+Path Kinetic Coefficient = 0.010 (unitless).
+Path Wind Angle = 290.00 Degrees.
+Path Wind Speed = 8.00m/s.
+Road Slope Angle = -0.47 Degrees.
+Distance = 3.03km.
+Energy = 33.02W.h.
+
+trindade -> conservatorio
+Path Kinetic Coefficient = 0.010 (unitless).
+Path Wind Angle = 320.00 Degrees.
+Path Wind Speed = 6.00m/s.
+Road Slope Angle = -0.33 Degrees.
+Distance = 1.22km.
+Energy = 7.45W.h.
+
+conservatorio -> casa da musica
+Path Kinetic Coefficient = 0.010 (unitless).
+Path Wind Angle = 228.00 Degrees.
+Path Wind Speed = 5.00m/s.
+Road Slope Angle = 0.33 Degrees.
+Distance = 0.69km.
+Energy = 31.02W.h.

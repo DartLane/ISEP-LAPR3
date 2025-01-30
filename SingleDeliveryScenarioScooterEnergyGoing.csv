@@ -1,0 +1,47 @@
+Vehicle Type -> Scooter
+Vehicle Specifications :
+Scooter Speed = 8.70m/s.
+Scooter Weight (excluding load) = 13.00kg.
+Courier Weight = 84.30kg.
+Load Weight = 1.00kg.
+Scooter Aerodynamic Coefficient = 1.11 (unitless).
+Scooter Frontal Area (considering upright human) = 1.50m2.
+
+Projected Path :
+Total Distance = 2.89km.
+Total Energy Consumption = 79.78W.h.
+Time of Traversal = 332s.
+
+Path Structure :
+
+casa da musica -> conservatorio
+Path Kinetic Coefficient = 0.010 (unitless).
+Path Wind Angle = 48.00 Degrees.
+Path Wind Speed = 5.00m/s.
+Road Slope Angle = -0.33 Degrees.
+Distance = 0.69km.
+Energy = 6.18W.h.
+
+conservatorio -> pavilhao rosa mota
+Path Kinetic Coefficient = 0.010 (unitless).
+Path Wind Angle = 140.00 Degrees.
+Path Wind Speed = 6.00m/s.
+Road Slope Angle = -0.49 Degrees.
+Distance = 0.82km.
+Energy = 40.59W.h.
+
+pavilhao rosa mota -> torre dos clerigos
+Path Kinetic Coefficient = 0.020 (unitless).
+Path Wind Angle = 90.00 Degrees.
+Path Wind Speed = 7.00m/s.
+Road Slope Angle = 0.12 Degrees.
+Distance = 0.99km.
+Energy = 26.75W.h.
+
+torre dos clerigos -> se do porto
+Path Kinetic Coefficient = 0.010 (unitless).
+Path Wind Angle = 79.00 Degrees.
+Path Wind Speed = 7.00m/s.
+Road Slope Angle = -0.30 Degrees.
+Distance = 0.39km.
+Energy = 6.28W.h.
